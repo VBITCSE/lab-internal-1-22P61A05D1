@@ -1,0 +1,20 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color:white;
+    
+}
+.mainbody{
+    justify-content: center;
+    align-content: space-evenly;
+    margin-left: 50px;
+    margin-top: 50px;
+    font-size: 14px;
+    
+}
+.btn{
+    align-items: center;
+}
+.footer{
+    font-size: 10px;
+    color: blue;
+}
